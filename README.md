@@ -8,7 +8,7 @@ I’m an app developer passionate about creating flawless applications with 100%
 
 ### Skills And Experince
 
-[![My Skills](https://skillicons.dev/icons?i=java,flutter,postman,mysql,php,html,css,js,bootstrap&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,flutter,postman,mysql,php,html,css,js,bootstrap&theme=light)](http://devmasum.xyz/)
 
 
 
