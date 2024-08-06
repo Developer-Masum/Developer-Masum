@@ -6,6 +6,8 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: JAVA / PHP / JS / HTML / CSS / SQL
 
+[![My Skills](https://skillicons.dev/icons?i=java,figma&theme=light)](https://skillicons.dev)
+
 - 🌱 I’m currently learning PHP 
 - 💬 Ask me about Android Developer 
 
